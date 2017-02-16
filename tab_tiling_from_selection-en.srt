@@ -1,0 +1,26 @@
+1
+00:00:04,460 --> 00:00:09,700
+Here, we'll show you how to create a split
+screen view of selected tabs using Tab Tiling.
+
+2
+00:00:10,460 --> 00:00:13,740
+Hold down the 'Shift' key and click on the
+tabs you'd like to include.
+
+3
+00:00:14,020 --> 00:00:19,860
+Once selected, right-click on one of the selected tabs and pick 'Tile Tabs' from the menu.
+
+4
+00:00:24,319 --> 00:00:30,319
+To return a tab to the default view, right-click on the tab and select ‘Untile Selection.’
+
+5
+00:00:35,740 --> 00:00:36,620
+Thanks for watching.
+
+6
+00:00:36,740 --> 00:00:39,340
+Find out more by visiting Vivaldi.com
+

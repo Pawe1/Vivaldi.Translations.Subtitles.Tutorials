@@ -1,0 +1,61 @@
+1
+00:00:04,280 --> 00:00:06,680
+Here’s how to add a new Web Panel in Vivaldi
+
+2
+00:00:08,060 --> 00:00:13,540
+To get started, expand the main Panel by clicking the Show Panel toggle in the Status Bar.
+
+3
+00:00:14,200 --> 00:00:19,360
+In the expanded view, you’ll now see icons for your Bookmarks, Downloads, and Notes.
+
+4
+00:00:20,180 --> 00:00:23,420
+Below that, there is a “plus” sign which can be used to add new Web Panels.
+
+5
+00:00:23,640 --> 00:00:28,080
+Click this plus sign, enter the URL for the site you’d like to add, and hit Enter.
+
+6
+00:00:29,520 --> 00:00:32,080
+You’re new panel is live - and will be ready
+for you
+
+7
+00:00:32,080 --> 00:00:34,820
+whenever you relaunch the browser or open a new window.
+
+8
+00:00:36,640 --> 00:00:40,720
+Web Panels are a great way to keep up with social feeds and messenger apps throughout the day,
+
+9
+00:00:40,940 --> 00:00:44,420
+or to quickly access tools that you find yourself visiting regularly.
+
+10
+00:00:49,100 --> 00:00:51,020
+Any page can be added as a Web Panel.
+
+11
+00:00:53,080 --> 00:00:56,060
+Simply open the page you’d like to add, right-click anywhere
+
+12
+00:00:56,080 --> 00:00:58,640
+and select “Add Page to Web Panel” from the menu.
+
+13
+00:00:59,220 --> 00:01:03,900
+Keep in mind that due to the smaller view area, mobile-friendly sites will work best.
+
+14
+00:01:10,460 --> 00:01:11,420
+Thanks for watching.
+
+15
+00:01:11,420 --> 00:01:13,740
+Find out more by visiting vivaldi.com
+

@@ -1,0 +1,33 @@
+1
+00:00:05,380 --> 00:00:07,560
+Vivaldi lets you cut down the clutter and
+
+2
+00:00:07,600 --> 00:00:10,720
+organise your tabs into groups called Tab Stacks.
+
+3
+00:00:12,760 --> 00:00:16,940
+To create a new Stack, simply click and drag a tab on top of another tab,
+
+4
+00:00:17,000 --> 00:00:20,240
+hold it until the tab below becomes dark and drop it in.
+
+5
+00:00:20,740 --> 00:00:22,080
+That’s all there is to it!
+
+6
+00:00:31,220 --> 00:00:36,600
+To ungroup your tabs, right click on a Tab
+Stack and select 'Ungroup Tab Stack'.
+
+7
+00:00:40,910 --> 00:00:41,910
+Thanks for watching.
+
+8
+00:00:41,910 --> 00:00:44,270
+Find out more by visiting vivaldi.com
+

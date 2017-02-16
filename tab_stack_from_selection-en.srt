@@ -1,0 +1,37 @@
+1
+00:00:04,480 --> 00:00:07,420
+Here’s another handy way to create Tab Stacks in Vivaldi.
+
+2
+00:00:08,040 --> 00:00:10,660
+To create a tab stack by using tab selection,
+
+3
+00:00:10,760 --> 00:00:14,100
+hold down the 'Shift' key and click on the tabs you'd like to include.
+
+4
+00:00:14,880 --> 00:00:18,080
+Release ‘Shift’, and right-click on either
+of the selected tabs,
+
+5
+00:00:18,100 --> 00:00:20,780
+picking ‘New Tab from Selection’ from the menu.
+
+6
+00:00:31,540 --> 00:00:34,300
+To ungroup your tabs, right-click on the Tab Stack
+
+7
+00:00:34,380 --> 00:00:38,100
+and select 'Ungroup Tab Stack' to return to the default view.
+
+8
+00:00:40,910 --> 00:00:41,910
+Thanks for watching.
+
+9
+00:00:41,910 --> 00:00:44,350
+Find out more by visiting vivaldi.com
+

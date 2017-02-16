@@ -1,0 +1,41 @@
+1
+00:00:04,440 --> 00:00:08,400
+Tab Tiling allows you to view several tabs at the same time in Vivaldi.
+
+2
+00:00:09,460 --> 00:00:12,420
+To create a split screen view of an existing Tab Stack,
+
+3
+00:00:12,500 --> 00:00:16,780
+simply right-click on the Stack and select 'Tile Tab Stack' from the menu.
+
+4
+00:00:16,980 --> 00:00:19,180
+The new tiled view will appear immediately.
+
+5
+00:00:21,020 --> 00:00:24,100
+You can also drag and drop tabs in or out
+of the stack
+
+6
+00:00:24,180 --> 00:00:26,380
+to the add or remove them from the tiled view.
+
+7
+00:00:30,280 --> 00:00:32,320
+To return your Stack to the default view,
+
+8
+00:00:32,560 --> 00:00:36,240
+right-click on the Stack and select ‘Untile Tab Stack'.
+
+9
+00:00:42,790 --> 00:00:43,790
+Thanks for watching.
+
+10
+00:00:43,790 --> 00:00:46,090
+Find out more by visiting Vivaldi.com
+
